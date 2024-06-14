@@ -28,6 +28,11 @@ Este projeto é um jogo interativo baseado em Arduino que utiliza RFID, uma tela
 
 ## Como Funciona
 
+Etapa preparatoria:
+1. **Inicialize o codigo de cadastro das tags para que possa ser preparada a tag**
+2. **Edite o codigo para definir a data e arquivo musical a ser tocado**
+
+Etapa de reprodução:
 1. **Inicialização**: O sistema exibe uma mensagem solicitando que uma tag RFID seja aproximada do leitor.
 2. **Leitura da Tag**: A data correta e o número da música são lidos da tag RFID.
 3. **Seleção da Data**: O jogador usa os botões para selecionar o dia e o mês.
